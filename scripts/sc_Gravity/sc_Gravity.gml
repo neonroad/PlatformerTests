@@ -1,0 +1,4 @@
+
+if(!standing){
+	vsp += grv;	
+}
